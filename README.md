@@ -251,12 +251,8 @@ _Add Screenshot Here_
 ## 👨‍💻 Author
 
 **Sandeep Kumar Yadav**
+ 
+- GitHub: https://github.com/YOUR_GITHUB_https://github.com/Sandeep-skyadav
 
-- LinkedIn: YOUR_LINKEDIN_URL
-- GitHub: https://github.com/YOUR_GITHUB_https:Sandeep-skyadav
 
----
 
-## 📄 License
-
-This project is created for educational and assessment purposes.
