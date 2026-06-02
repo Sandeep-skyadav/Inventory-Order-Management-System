@@ -251,8 +251,7 @@ _Add Screenshot Here_
 ## 👨‍💻 Author
 
 **Sandeep Kumar Yadav**
- 
-- GitHub: https://github.com/YOUR_GITHUB_https://github.com/Sandeep-skyadav
+
 
 
 
