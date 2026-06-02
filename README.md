@@ -1,4 +1,4 @@
-# 🚀 Inventory & Order Management System
+# 🚀 inventory & order management system
 
 A full-stack Inventory & Order Management System built using **FastAPI**, **React.js**, and **PostgreSQL**. The application helps businesses manage products, customers, orders, and inventory efficiently through a clean and responsive user interface.
 
